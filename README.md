@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saalim2002
-- 👀 I’m interested in developing software,Web Development etc.
+- 👀 I’m interested in developing Apps,Web Development etc.
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Backend related stuffs
 - 📫 How to reach me through my email-SaalimShaikh078@gmail.com
